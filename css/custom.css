@@ -1,0 +1,12 @@
+.custom-full {
+    background: url('../source/gambar/png/GreyBackground.png') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    height:100%;
+}
+
+.custom-turun{
+    background: rgb(0, 0, 0);
+}
